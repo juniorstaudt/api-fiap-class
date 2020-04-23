@@ -1,0 +1,27 @@
+{
+  "name": "api-class-19mob",
+  "version": "1.0.0",
+  "description": "api class em Node na aula da turma 19Mob FIAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorstaudt/api-fiap-class.git"
+  },
+  "author": "Junior M. Staudt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorstaudt/api-fiap-class/issues"
+  },
+  "homepage": "https://github.com/juniorstaudt/api-fiap-class#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase": "^7.14.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.3"
+  }
+}
